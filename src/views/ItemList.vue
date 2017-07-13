@@ -99,7 +99,7 @@ export default {
 }
 </script>
 
-<style lang="stylus">
+<style lang="stylus" scoped>
 .news-view
   padding-top 45px
 
